@@ -26,6 +26,10 @@
     color: #ffffff;
     padding: 8px;
     margin: 10px;
+
+    &:hover{
+      background-color: rgba(35, 35, 66, 0.658);
+    }
   }
   &__input {
     border: solid 1px #d5d5d5;
